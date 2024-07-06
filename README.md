@@ -26,7 +26,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### I am a Full Stack Developer
-- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
+- 💻 Full Stack Web Developer @ <a href="https://pureid.io"> Interface Technology</a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Flutter.
 - 🥅 2024 Goals: Contribute to Open Source projects
